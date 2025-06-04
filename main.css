@@ -1,1 +1,10 @@
-body{background:blue;}
+body {
+  /* You can edit the background color here: */
+  background: yellow;
+  /* CSS doesn't know all color names, but it knows a lot of them.
+  Try one or more of these:
+  - orange
+  - palegoldenrod
+  - pink
+  - firebrick */
+}
